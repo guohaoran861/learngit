@@ -4,4 +4,5 @@ Git has a mutable index called stage.1
 branch 是多大的
 conflict1
 方法
+远程下拉
 
